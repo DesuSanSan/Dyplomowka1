@@ -1,0 +1,18 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_ColorAdjustment"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=EFF32021459CD11CCF5364B984192FBA
+   Parent=Material'"/Game/ArtOfShader/FilmAndSpecialEffects/Materials/M_ColorAdjustment.M_ColorAdjustment"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="AdditiveColor"),ParameterValue=(R=0.000000,G=0.000000,B=0.100000,A=1.000000),ExpressionGUID=959A7E5A4D43DECA26D9E1B3B260216C)
+   VectorParameterValues(1)=(ParameterInfo=(Name="Color1"),ParameterValue=(R=0.000000,G=1.000000,B=0.032499,A=1.000000),ExpressionGUID=CE7E49984C7BD95D1A52F09BA397CE32)
+   VectorParameterValues(2)=(ParameterInfo=(Name="Color2"),ParameterValue=(R=0.615806,G=1.000000,B=0.311239,A=1.000000),ExpressionGUID=1F003C0046C109C918AD249CB91A875C)
+   VectorParameterValues(3)=(ParameterInfo=(Name="Color3"),ParameterValue=(R=1.000000,G=0.000000,B=0.761367,A=1.000000),ExpressionGUID=482BD657402F0C5E5676FDA571BB489A)
+   VectorParameterValues(4)=(ParameterInfo=(Name="ColorIntensity"),ParameterValue=(R=0.600000,G=0.600000,B=0.600000,A=1.000000),ExpressionGUID=DCBD6F57416801B5CC01A49E9B0E7E25)
+   VectorParameterValues(5)=(ParameterInfo=(Name="LumeCoefficient"),ParameterValue=(R=0.200000,G=0.200000,B=0.200000,A=1.000000),ExpressionGUID=98EF58C14CB84EC5AC28F785F2185176)
+   BasePropertyOverrides=(ShadingModel=MSM_Unlit,OpacityMaskClipValue=0.333300)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=88D293854F544D01B948BE8D81F25A89
+End Object
